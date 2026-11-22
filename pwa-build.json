@@ -1,0 +1,13 @@
+{
+  "build": "29a5206f547170a7",
+  "edition": "4.1.2",
+  "asset_hashes": {
+    "index.html": "560ec2bb8b9a16bf0377731ef93354f75a692364669485d2cf0df03dd4e26102",
+    "manifest.webmanifest": "df873e29ded3580d8ea9643b53704f279c44be1cf00aa90b6f907a018efd1089",
+    "icons/icon-192.png": "e5c00dd6c09bf237bce9c8d490c219a4179a2cd1b3b8cdd5bc10aef827a489fb",
+    "icons/icon-512.png": "1fd5aa2db2475d26334da780b7b3436875bf4f74e20544fdcc92c6ac424a0ac8",
+    "icons/apple-touch-icon.png": "10bcc5703f6a245c7e7f335d5116fd1b43e68f2a1f059c0a16e3918a6521c002",
+    "service-worker.js": "66740ed655455d9812ff8f9120ecc7bbf81f387889264096780e8980703e33bd",
+    "_headers": "2db494a5b602ff1162bf4f1cd653c768fac9dd7ccb38b1cf21771940363e0cdf"
+  }
+}
